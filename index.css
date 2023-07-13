@@ -17,3 +17,7 @@
 	border-radius: 15px;
 	cursor: pointer;
 }
+#doind{
+	font: optional;
+	display: flex;
+}
